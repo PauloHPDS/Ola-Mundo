@@ -1,4 +1,4 @@
 # Olá-Mundo!!!
- Testandi meu primeriro repositorio Git
+ Testando meu primeriro repositorio Git
 
 Feito dia 21/12/2021
